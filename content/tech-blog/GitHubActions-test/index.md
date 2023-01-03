@@ -1,11 +1,15 @@
 ---
 title: GitHub ActionsでGatsbyのビルド&デプロイ
-date: "2023-01-03T14:30:00.000Z"
+date: "2023-01-04T01:04:00.000Z"
 description: "GitHub ActionsでGatsbyのビルド&デプロイ"
 blog: "Tech"
 tags: ["GatsbyJS","github"]
 image: 
 ---
+
+テストブランチ
+プルリクエスト中の修正です。
+
 
 １回目ビルド：　４分
 
